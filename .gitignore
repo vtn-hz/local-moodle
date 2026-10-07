@@ -3,5 +3,5 @@
 
 # === Track only development files ===
 !/.gitignore
-!/config.php.example
+!/config.php
 !/local/
