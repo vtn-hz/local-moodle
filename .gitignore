@@ -3,5 +3,6 @@
 
 # === Track only development files ===
 !/.gitignore
+!/README.md
 !/config.php
 !/local/
