@@ -1,0 +1,7 @@
+# === Moodle Core (downloaded via setup.sh, not developed) ===
+/*
+
+# === Track only development files ===
+!/.gitignore
+!/config.php.example
+!/local/
